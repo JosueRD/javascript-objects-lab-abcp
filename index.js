@@ -1,4 +1,1 @@
-function Objects(){
-var recipes={recipes:'object'}
-return recipes
-}
+var recipes={"Brownie":"Cookie"}
