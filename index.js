@@ -1,5 +1,4 @@
 function Objects(){
-var recipes= new Object()
-var object=new Object()
+var object={typeof,"recipes"}
 return object
 }
