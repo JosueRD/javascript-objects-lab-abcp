@@ -1,1 +1,1 @@
-var recipes={"Brownie":"Cookie"}
+var recipes={typeof:"Cookie"}
