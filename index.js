@@ -1,4 +1,4 @@
 function Objects(){
-var object={typeof:"recipes"}
+var recipes={recipes:'object'}
 return object
 }
