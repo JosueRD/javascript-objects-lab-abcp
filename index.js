@@ -1,3 +1,3 @@
 function Objects(){
- var object={recipes:`typeof`}
+ return 'object'
 }
