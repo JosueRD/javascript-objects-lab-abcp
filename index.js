@@ -1,1 +1,1 @@
-var recipes={typeof:"Cookie"}
+var recipes={dessert:"Cookie"}
