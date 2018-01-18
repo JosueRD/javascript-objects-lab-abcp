@@ -1,4 +1,3 @@
 function Objects(){
-var recipes={}
-return recipes
+newObj=recipes{}
 }
